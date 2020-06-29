@@ -9,3 +9,5 @@ Memoirs of a Space Traveller. He is good friends with Professor Donda.
 * morchmell
 * mumbo
 > But how can I use a method to discredit that very method, if the method is discreditable?
+
+<img src="https://live.staticflickr.com/4017/4694197514_e66c4ac741_b.jpg"/>
