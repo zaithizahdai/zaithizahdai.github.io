@@ -8,4 +8,4 @@ Memoirs of a Space Traveller. He is good friends with Professor Donda.
 * gnussard
 * morchmell
 * mumbo
-
+> But how can I use a method to discredit that very method, if the method is discreditable?
